@@ -2,8 +2,6 @@
 
 An end-to-end analytics project using **Python, SQL (SQLite), and Streamlit** to answer a practical retail question: *what drives revenue, do discounts and subscriptions actually raise spend, and which customer segments deserve the most attention?*
 
-**Live dashboard:** [add Streamlit link here]
-
 ---
 
 ## Summary
